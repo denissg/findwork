@@ -10,7 +10,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "new project!";
+        echo "new project! Update";
         ?>
     </body>
 </html>
